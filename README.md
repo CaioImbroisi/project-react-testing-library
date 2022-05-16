@@ -5,6 +5,13 @@ O projeto consiste em desenvolver testes para confirmar o funcionamento e a devi
 A aplicação **NÃO** foi desenvolvida por mim, apenas os testes utilizando o RTL.
 O conteúdo dos testes se encontram em [src/tests](https://github.com/CaioImbroisi/project-react-testing-library/tree/main/src/tests);
 
+## O que foi feito neste projeto:
+- Utilizar os seletores (queries) da React-Testing-Library em testes automatizados.
+- Simular eventos com a React-Testing-Library em testes automatizados.
+- Testar fluxos lógicos assíncronos com a React-Testing-Library.
+- Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados.
+- Criar mocks de APIs utilizando fetch.
+- Testar inputs.
 
 ## Testes executados na aplicação:
 ##### App.test.js:
