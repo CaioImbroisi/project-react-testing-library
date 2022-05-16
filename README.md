@@ -3,3 +3,4 @@
 
 O projeto consiste em desenvolver testes para confirmar o funcionamento e a devida estruturação da aplicação.
 A aplicação **NÃO** foi desenvolvida por mim, apenas os testes utilizando o RTL.
+O conteúdo dos testes se encontram em "src/tests";
